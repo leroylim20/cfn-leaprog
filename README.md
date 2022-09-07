@@ -12,7 +12,7 @@ but is kept here for historical reference.
 ## Setup the Infrastructure
 
 Make sure your environment has default AWS credentials that can setup
-CloudTrail, CloudWatch and DynamoDB.
+CloudTrail, CloudWatch, Lambda, S3, Cloudformation and DynamoDB.
 
 Make sure you have a recent Ruby installed.  2.6 was used for development.
 
